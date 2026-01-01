@@ -2,3 +2,5 @@ Git is a version control system.
 It helps track changes in code.
 
 GitHub is used to host Git repositories online.
+
+This line was added in the feature-notes branch.
