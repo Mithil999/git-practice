@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("GitHub Learning Started!");
+    alert("Welcome to GitHub Practice!");
 }
